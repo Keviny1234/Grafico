@@ -1,0 +1,6 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 300px;
+    background-color: aquamarine;
+}
